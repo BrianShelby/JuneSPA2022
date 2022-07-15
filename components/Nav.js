@@ -4,10 +4,12 @@ export default links => html`
   <nav>
     <i class="fas fa-bars"></i>
     <ul class="hidden--mobile nav-links">
-      ${links.map(
-        el =>
-          `<li><a href="/${el.title}" title="${el.title}" data-navigo>${el.text}</a></li>`
-      )}
+      ${links
+        .map(
+          links =>
+            `<li><a href="/${links.title}" title="${links.title}" data-navigo>${links.text}</a></li>`
+        )
+        .join("")}
     </ul>
   </nav>
 `;
