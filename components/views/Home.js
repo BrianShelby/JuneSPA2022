@@ -8,8 +8,9 @@ export default st => html`
   </section>
 
   <h3>
-    The weather in ${st.weather.city} is ${st.weather.description}. Temperature
-    is ${st.weather.temp}F, and it feels like ${st.weather.feelsLike}F.
+    The weather in ${st.weather.city} is ${st.weather.description}, and the
+    temperature is ${st.weather.temp}°F, and it feels like
+    ${st.weather.feelsLike}°F.
   </h3>
 
   <img class="cover-img" src="${sharkImage}" />

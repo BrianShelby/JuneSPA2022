@@ -106,7 +106,7 @@
 70C:\Users\Brian\code\SavvyCoders\JuneSPA2022\node_modules\source-map-js133020613777493402 1
 88C:\Users\Brian\code\SavvyCoders\JuneSPA2022\node_modules\eslint\lib\rules\unicode-bom.js133020613975561608 0
 94C:\Users\Brian\code\SavvyCoders\JuneSPA2022\node_modules\es-abstract\5\CheckObjectCoercible.js133020613931214830 0
-48C:\Users\Brian\code\SavvyCoders\JuneSPA2022\dist133027575473085356 1
+48C:\Users\Brian\code\SavvyCoders\JuneSPA2022\dist133031916975984004 1
 93C:\Users\Brian\code\SavvyCoders\JuneSPA2022\node_modules\eslint\lib\rules\no-useless-catch.js133020613965751243 0
 101C:\Users\Brian\code\SavvyCoders\JuneSPA2022\node_modules\wrap-ansi\node_modules\strip-ansi\index.d.ts133020613609301830 0
 73C:\Users\Brian\code\SavvyCoders\JuneSPA2022\node_modules\postcss-colormin133020613641408863 1
@@ -129,7 +129,7 @@
 84C:\Users\Brian\code\SavvyCoders\JuneSPA2022\node_modules\css-tree\lib\utils\names.js133020613882815636 0
 78C:\Users\Brian\code\SavvyCoders\JuneSPA2022\node_modules\colord\plugins\hwb.js133020613704696272 0
 99C:\Users\Brian\code\SavvyCoders\JuneSPA2022\node_modules\rxjs\_esm2015\internal\AsyncSubject.js.map133020614049925366 0
-54C:\Users\Brian\code\SavvyCoders\JuneSPA2022\index.html133021497067729776 0
+54C:\Users\Brian\code\SavvyCoders\JuneSPA2022\index.html133028068399027648 0
 78C:\Users\Brian\code\SavvyCoders\JuneSPA2022\node_modules\node-forge\lib\tls.js133020613868137890 0
 81C:\Users\Brian\code\SavvyCoders\JuneSPA2022\node_modules\rxjs\operators\filter.js133020613964741822 0
 66C:\Users\Brian\code\SavvyCoders\JuneSPA2022\node_modules\encodeurl133020613608022577 1
@@ -179,7 +179,7 @@
 125C:\Users\Brian\code\SavvyCoders\JuneSPA2022\node_modules\postcss-modules-scope\node_modules\postcss\docs\guidelines\plugin.md133020613797377419 0
 115C:\Users\Brian\code\SavvyCoders\JuneSPA2022\node_modules\@parcel\optimizer-terser\node_modules\source-map\README.md133020613776458288 0
 47C:\Users\Brian\code\SavvyCoders\JuneSPA2022\OLD133020639219132479 1
-52C:\Users\Brian\code\SavvyCoders\JuneSPA2022\index.js133027566250467900 0
+52C:\Users\Brian\code\SavvyCoders\JuneSPA2022\index.js133031913066087467 0
 113C:\Users\Brian\code\SavvyCoders\JuneSPA2022\node_modules\@parcel\transformer-babel\node_modules\semver\bin\semver133020613763705834 0
 70C:\Users\Brian\code\SavvyCoders\JuneSPA2022\node_modules\isexe\mode.js133020613620735263 0
 106C:\Users\Brian\code\SavvyCoders\JuneSPA2022\node_modules\supports-hyperlinks\node_modules\has-flag\license133020613603804581 0
@@ -7174,7 +7174,7 @@
 76C:\Users\Brian\code\SavvyCoders\JuneSPA2022\node_modules\es-abstract\LICENSE133020613709585249 0
 78C:\Users\Brian\code\SavvyCoders\JuneSPA2022\node_modules\rxjs\fetch\index.d.ts133020614139218429 0
 96C:\Users\Brian\code\SavvyCoders\JuneSPA2022\node_modules\rxjs\_esm2015\internal\Scheduler.js.map133020614106671993 0
-91C:\Users\Brian\code\SavvyCoders\JuneSPA2022\dist\happy-shark-cartoon-character.ac197bd2.jpg133027566294559671 0
+91C:\Users\Brian\code\SavvyCoders\JuneSPA2022\dist\happy-shark-cartoon-character.ac197bd2.jpg133028037209362764 0
 87C:\Users\Brian\code\SavvyCoders\JuneSPA2022\node_modules\rxjs\src\operators\refCount.ts133020614149762362 0
 94C:\Users\Brian\code\SavvyCoders\JuneSPA2022\node_modules\rxjs\_esm2015\internal\Subject.js.map133020614109970086 0
 102C:\Users\Brian\code\SavvyCoders\JuneSPA2022\node_modules\rxjs\_esm2015\internal\SubjectSubscription.js133020614026505526 0
@@ -13190,7 +13190,7 @@
 77C:\Users\Brian\code\SavvyCoders\JuneSPA2022\node_modules\lodash\_lazyClone.js133020613948449340 0
 75C:\Users\Brian\code\SavvyCoders\JuneSPA2022\node_modules\lodash\fp\pluck.js133020614012028538 0
 79C:\Users\Brian\code\SavvyCoders\JuneSPA2022\node_modules\lodash\_lazyReverse.js133020613948539276 0
-94C:\Users\Brian\code\SavvyCoders\JuneSPA2022\dist\photo-1528334713982-2d1fe11a157a.98283a10.jpg133027566294539677 0
+94C:\Users\Brian\code\SavvyCoders\JuneSPA2022\dist\photo-1528334713982-2d1fe11a157a.98283a10.jpg133028037209362764 0
 79C:\Users\Brian\code\SavvyCoders\JuneSPA2022\node_modules\lodash\_LazyWrapper.js133020613948739154 0
 80C:\Users\Brian\code\SavvyCoders\JuneSPA2022\node_modules\lodash\_listCacheGet.js133020613949378791 0
 108C:\Users\Brian\code\SavvyCoders\JuneSPA2022\node_modules\jsdom\lib\jsdom\living\generated\HTMLBodyElement.js133020613930445270 0
@@ -17096,7 +17096,7 @@
 100C:\Users\Brian\code\SavvyCoders\JuneSPA2022\node_modules\es-abstract\2015\CreateListFromArrayLike.js133020613941270959 0
 95C:\Users\Brian\code\SavvyCoders\JuneSPA2022\node_modules\core-js\modules\es.typed-array.fill.js133020613997476886 0
 97C:\Users\Brian\code\SavvyCoders\JuneSPA2022\node_modules\es-abstract\2015\CreateMethodProperty.js133020613942080493 0
-64C:\Users\Brian\code\SavvyCoders\JuneSPA2022\components\Footer.js133021341324927138 0
+64C:\Users\Brian\code\SavvyCoders\JuneSPA2022\components\Footer.js133028320805831610 0
 80C:\Users\Brian\code\SavvyCoders\JuneSPA2022\node_modules\es-abstract\2015\Day.js133020613947117106 0
 88C:\Users\Brian\code\SavvyCoders\JuneSPA2022\node_modules\es-abstract\2015\DayFromYear.js133020613948116525 0
 87C:\Users\Brian\code\SavvyCoders\JuneSPA2022\node_modules\es-abstract\2015\DaysInYear.js133020613949168909 0
@@ -18160,7 +18160,7 @@
 93C:\Users\Brian\code\SavvyCoders\JuneSPA2022\node_modules\core-js\modules\esnext.observable.js133020614009240153 0
 94C:\Users\Brian\code\SavvyCoders\JuneSPA2022\node_modules\core-js\modules\esnext.promise.any.js133020614009380059 0
 94C:\Users\Brian\code\SavvyCoders\JuneSPA2022\node_modules\core-js\modules\esnext.promise.try.js133020614009440024 0
-64C:\Users\Brian\code\SavvyCoders\JuneSPA2022\components\Header.js133022340964449606 0
+64C:\Users\Brian\code\SavvyCoders\JuneSPA2022\components\Header.js133028320676049478 0
 88C:\Users\Brian\code\SavvyCoders\JuneSPA2022\node_modules\caniuse-lite\data\regions\FK.js133020613967320348 0
 106C:\Users\Brian\code\SavvyCoders\JuneSPA2022\node_modules\core-js\modules\esnext.reflect.delete-metadata.js133020614009569946 0
 91C:\Users\Brian\code\SavvyCoders\JuneSPA2022\node_modules\core-js\modules\esnext.set.find.js133020614010549387 0
@@ -18551,7 +18551,7 @@
 93C:\Users\Brian\code\SavvyCoders\JuneSPA2022\node_modules\core-js\features\array\virtual\at.js133020613930575198 0
 102C:\Users\Brian\code\SavvyCoders\JuneSPA2022\node_modules\core-js\features\array\virtual\copy-within.js133020613959484853 0
 95C:\Users\Brian\code\SavvyCoders\JuneSPA2022\node_modules\core-js\features\array\virtual\fill.js133020614019749414 0
-66C:\Users\Brian\code\SavvyCoders\JuneSPA2022\dist\index.38661719.js133027575472905469 0
+66C:\Users\Brian\code\SavvyCoders\JuneSPA2022\dist\index.38661719.js133031916975802307 0
 101C:\Users\Brian\code\SavvyCoders\JuneSPA2022\node_modules\core-js\features\array\virtual\filter-out.js133020614020259130 0
 104C:\Users\Brian\code\SavvyCoders\JuneSPA2022\node_modules\core-js\features\array\virtual\filter-reject.js133020614020718862 0
 99C:\Users\Brian\code\SavvyCoders\JuneSPA2022\node_modules\core-js\features\array\virtual\group-by.js133020614041624732 0
@@ -21759,14 +21759,14 @@
 74C:\Users\Brian\code\SavvyCoders\JuneSPA2022\node_modules\.bin\sshpk-verify133020614171506636 0
 78C:\Users\Brian\code\SavvyCoders\JuneSPA2022\node_modules\.bin\sshpk-verify.ps1133020614171506636 0
 70C:\Users\Brian\code\SavvyCoders\JuneSPA2022\node_modules\.bin\svgo.cmd133020614171506636 0
-70C:\Users\Brian\code\SavvyCoders\JuneSPA2022\dist\index.38661719.js.map133027575473055399 0
-67C:\Users\Brian\code\SavvyCoders\JuneSPA2022\dist\index.de101254.css133027566294420161 0
-71C:\Users\Brian\code\SavvyCoders\JuneSPA2022\dist\index.de101254.css.map133027566294679598 0
-59C:\Users\Brian\code\SavvyCoders\JuneSPA2022\dist\index.html133027566295025617 0
+70C:\Users\Brian\code\SavvyCoders\JuneSPA2022\dist\index.38661719.js.map133031916975954038 0
+67C:\Users\Brian\code\SavvyCoders\JuneSPA2022\dist\index.de101254.css133028037209139508 0
+71C:\Users\Brian\code\SavvyCoders\JuneSPA2022\dist\index.de101254.css.map133028037209536641 0
+59C:\Users\Brian\code\SavvyCoders\JuneSPA2022\dist\index.html133028037209362764 0
 63C:\Users\Brian\code\SavvyCoders\JuneSPA2022\components\index.js133021342072141795 0
 62C:\Users\Brian\code\SavvyCoders\JuneSPA2022\components\Main.js133022334561323036 0
 61C:\Users\Brian\code\SavvyCoders\JuneSPA2022\components\Nav.js133023222022243914 0
-68C:\Users\Brian\code\SavvyCoders\JuneSPA2022\components\views\Home.js133027574775175315 0
+68C:\Users\Brian\code\SavvyCoders\JuneSPA2022\components\views\Home.js133031916973022286 0
 69C:\Users\Brian\code\SavvyCoders\JuneSPA2022\components\views\Order.js133020667016856326 0
 69C:\Users\Brian\code\SavvyCoders\JuneSPA2022\components\views\Pizza.js133027544921279926 0
 54C:\Users\Brian\code\SavvyCoders\JuneSPA2022\assets\img133021436991940903 1

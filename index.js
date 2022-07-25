@@ -38,18 +38,15 @@ router.hooks({
       case "Home": {
         axios
           .get(
-            `https://api.openweathermap.org/data/2.5/weather?appid=${process.env.OPEN_WEATHER_MAP_API_KEY}&q=st%20louis`
+            `https://api.openweathermap.org/data/2.5/weather?appid=${process.env.OPEN_WEATHER_MAP_API_KEY}&q=st%20louis&units=imperial`
           )
           .then(response => {
-            const kelvinToFahrenheit = kelvinTemp =>
-              Math.round((kelvinTemp - 273.15) * (9 / 5) + 32);
+            const roundWholeNumber = wholeNumber => Math.round(wholeNumber);
 
             store.Home.weather = {};
             store.Home.weather.city = response.data.name;
-            store.Home.weather.temp = kelvinToFahrenheit(
-              response.data.main.temp
-            );
-            store.Home.weather.feelsLike = kelvinToFahrenheit(
+            store.Home.weather.temp = roundWholeNumber(response.data.main.temp);
+            store.Home.weather.feelsLike = roundWholeNumber(
               response.data.main.feels_like
             );
             store.Home.weather.description = response.data.weather[0].main;
